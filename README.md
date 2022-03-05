@@ -1,0 +1,1 @@
+# MINMIN.json
